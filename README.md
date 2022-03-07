@@ -1,2 +1,2 @@
 # APP-Notas
-aplicativo de notas com CRUD basico.
+aplicativo de anotações utilizando flutter (CRUD basico).
